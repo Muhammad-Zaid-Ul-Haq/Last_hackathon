@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+env/
+.venv/
+ENV/
+
+# IDE and Editor configurations
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Archive files (e.g. downloaded zip packages)
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Operating System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs and databases (temporary)
+*.log
